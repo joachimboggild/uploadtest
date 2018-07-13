@@ -1,0 +1,20 @@
+{
+  "name"             : "Upload Test",
+  "display"          : "fullscreen",
+  "orientation"      : "portrait",
+  "scope"            : "/",
+  "theme_color"      : "#ffffff",
+  "background_color" : "#000000",
+  "icons"            : [
+    {
+      "src": "/favico/white/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favico/white/android-icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ]
+}
